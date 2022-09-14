@@ -1,0 +1,21 @@
+
+.example-card {
+
+  margin-top: 74px;
+
+box-shadow: 4px 5px 45px 25px rgba(0,0,0,0.22);
+-webkit-box-shadow: 4px 5px 45px 25px rgba(0,0,0,0.22);
+-moz-box-shadow: 4px 5px 45px 25px rgba(0,0,0,0.22);
+
+}
+
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+  border-radius: 50px;
+}
+
+mat-card-actions{
+  margin-bottom: 30px;
+}
+
